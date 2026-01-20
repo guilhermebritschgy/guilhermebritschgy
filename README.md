@@ -2,7 +2,7 @@
 
 **`Dados/I.A./Engenharia de informação`**
 
-Sou estudante de Engenharia de Informação e entusiasta de **dados, inteligência artificial e segurança da informação**, utilizando Python para analisar dados, criar modelos, chatbots e desenvolver soluções práticas. Tenho interesse em aprender continuamente e aplicar tecnologia para resolver problemas do mundo real.
+Meu nome é Guilherme de Andrade Britschgy, sou estudante de Engenharia de Informação e entusiasta de **dados, inteligência artificial e segurança da informação**, utilizando Python para analisar dados, criar modelos, chatbots e desenvolver soluções práticas. Tenho interesse em aprender continuamente e aplicar tecnologia para resolver problemas do mundo real.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/guilherme-de-andrade-britschgy-35681b322">
